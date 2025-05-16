@@ -88,6 +88,7 @@ header img {
 header nav {
     min-width: 34vw;
     padding-right: 1%;
+    margin-right: 1%;
     font-family: "Montserrat", sans-serif;
     display: flex;
     flex-direction: row;
